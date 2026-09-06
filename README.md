@@ -65,7 +65,7 @@ virtual fitting room.
 | AI | Gemini (tagging / deck generation / shopping agent), all-MiniLM embeddings via pgvector |
 | Try-on | IDM-VTON on Hugging Face Spaces (sequential per-garment compositing) |
 
-## Project layout
+## Project layout :
 
 ```
 ├── backend/
