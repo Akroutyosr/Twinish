@@ -55,7 +55,7 @@ virtual fitting room.
 - **Honest streak math**: planner picks live in their own table so *planning* Friday
   never fakes *wearing* anything
 
-## Stack
+## Stack: 
 
 | Layer | Tech |
 |---|---|
