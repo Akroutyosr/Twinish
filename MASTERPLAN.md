@@ -7,7 +7,7 @@
 
 A personal app that turns your closet into a digital twin: every item tagged and understood, outfits generated from what you already own, and a second brain in your pocket when you're standing in a store deciding whether something's worth buying.
 
-**Equally important, second purpose:** this project is a hands-on lab for the AI techniques worth having real experience with in 2026 — structured extraction from multimodal LLMs, embeddings/RAG, agentic tool-use, and evals — built entirely on free tools. Every feature decision should be filtered through both lenses: *is this useful to me*, and *does building it teach me something*.
+**Equally important, second purpose:** this project is a hands-on lab for the AI techniques worth having real experience with in 2026 structured extraction from multimodal LLMs, embeddings/RAG, agentic tool-use, and evals, built entirely on free tools. Every feature decision should be filtered through both lenses: *is this useful to me*, and *does building it teach me something*.
 
 **What this is not:** a startup. No monetization, no multi-user scale, no enterprise roadmap. Solo, free-tier, learn-by-building.
 
