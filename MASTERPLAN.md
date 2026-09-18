@@ -1,5 +1,5 @@
 # Digital Wardrobe Twin:  Master Project Plan
-### Owned reference document. Update this as decisions get made, treat it as the single source of truth for vision, scope, and technical direction.
+### Owned reference document. Update this as decisions get made, treated as the single source of truth for vision, scope, and technical direction.
 
 ---
 
