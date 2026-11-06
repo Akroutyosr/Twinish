@@ -50,7 +50,7 @@ virtual fitting room.
 - **Tag cache**: identical photo re-uploads skip the vision model entirely
   (content-hash keyed); buy-checks reuse the agent's own tag result instead of
   re-running vision
-- **Truthful UI**: failures never masquerade as success — tagging outages, exhausted
+- **Truthful UI**: failures never masquerade as success: tagging outages, exhausted
   decks and budget limits each get explicit states
 - **Honest streak math**: planner picks live in their own table so *planning* Friday
   never fakes *wearing* anything
